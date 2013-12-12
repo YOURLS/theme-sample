@@ -1,7 +1,8 @@
 Title of your theme
 ===================
 
-Theme for [YOURLS](http://yourls.org) `1.7+`. 
+Theme for [YOURLS](http://yourls.org) `2.0+`.  
+**Warning:** This is part of the beta version of YOURLS. This not work on `1.x.x` versions.
 
 Preview
 -------
