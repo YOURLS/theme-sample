@@ -2,7 +2,7 @@ Title of your theme
 ===================
 
 Theme for [YOURLS](http://yourls.org) `2.0+`.  
-**Warning:** This is part of the beta version of YOURLS. This not work on `1.x.x` versions.
+**Warning:** This is part of a future version of YOURLS. This will **not** work on `1.x.x` versions.
 
 Preview
 -------
